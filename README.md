@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # $${\color{red} \textbf{Project}: \textbf{Angular}  \ \textbf{App}}$$
 
 ### Tech Stack
@@ -50,3 +51,6 @@ show databases;
 show tables;
 select * from tbl_workers;
 ```
+=======
+# Angular_Spire_Spring_Project
+>>>>>>> origin/main
